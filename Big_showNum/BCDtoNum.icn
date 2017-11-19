@@ -1,0 +1,41 @@
+SymbolianIcn ver1.00(2006.04.27)
+ModuleName BCDtoNum
+LanguageType Vhdl
+GridInterval 8
+MillimetersIn100RealScaledUnit 25
+ZoomOutScale 32
+NumberOfHorzPapaers 1
+NumberOfVertPapaers 1
+IfDrawModuleName True
+IfDrawPortnameText True
+ModuleNameDrawPosition middle
+Boxes
+Box Left: 344 Top: 560 ,Right: 496 ,Bottom: 592
+End
+Parameters
+End
+Ports
+Port Left: 320 Top: 568 ,SymbolSideLeft: 344 ,SymbolSideTop: 568
+Portname: BCD ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+3
+,RV:
+0
+Port Left: 520 Top: 568 ,SymbolSideLeft: 496 ,SymbolSideTop: 568
+Portname: numOut0 ,PortType: std_logic ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+0
+,RV:
+0
+Port Left: 520 Top: 584 ,SymbolSideLeft: 496 ,SymbolSideTop: 584
+Portname: numOut ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+9
+,RV:
+1
+End
+Ellipses
+End
+Lines
+End
+Arcs
+End
+Texts
+End

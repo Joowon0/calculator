@@ -1,0 +1,151 @@
+SymbolianIcn ver1.00(2006.04.27)
+ModuleName MUX2forShowNum
+LanguageType Vhdl
+GridInterval 8
+MillimetersIn100RealScaledUnit 25
+ZoomOutScale 32
+NumberOfHorzPapaers 1
+NumberOfVertPapaers 1
+IfDrawModuleName True
+IfDrawPortnameText True
+ModuleNameDrawPosition middle
+Boxes
+Box Left: 280 Top: 560 ,Right: 560 ,Bottom: 832
+End
+Parameters
+End
+Ports
+Port Left: 256 Top: 568 ,SymbolSideLeft: 280 ,SymbolSideTop: 568
+Portname: in1_BCD0 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+3
+,RV:
+0
+Port Left: 256 Top: 584 ,SymbolSideLeft: 280 ,SymbolSideTop: 584
+Portname: in1_BCD1 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+3
+,RV:
+0
+Port Left: 256 Top: 600 ,SymbolSideLeft: 280 ,SymbolSideTop: 600
+Portname: in1_BCD2 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+3
+,RV:
+0
+Port Left: 256 Top: 616 ,SymbolSideLeft: 280 ,SymbolSideTop: 616
+Portname: in1_BCD3 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+3
+,RV:
+0
+Port Left: 256 Top: 632 ,SymbolSideLeft: 280 ,SymbolSideTop: 632
+Portname: in1_BCD4 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+3
+,RV:
+0
+Port Left: 256 Top: 648 ,SymbolSideLeft: 280 ,SymbolSideTop: 648
+Portname: in1_BCD5 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+3
+,RV:
+0
+Port Left: 256 Top: 664 ,SymbolSideLeft: 280 ,SymbolSideTop: 664
+Portname: in1_BCD6 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+3
+,RV:
+0
+Port Left: 256 Top: 680 ,SymbolSideLeft: 280 ,SymbolSideTop: 680
+Portname: in1_neg ,PortType: std_logic ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+0
+,RV:
+0
+Port Left: 256 Top: 696 ,SymbolSideLeft: 280 ,SymbolSideTop: 696
+Portname: in2_BCD0 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+3
+,RV:
+0
+Port Left: 256 Top: 712 ,SymbolSideLeft: 280 ,SymbolSideTop: 712
+Portname: in2_BCD1 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+3
+,RV:
+0
+Port Left: 256 Top: 728 ,SymbolSideLeft: 280 ,SymbolSideTop: 728
+Portname: in2_BCD2 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+3
+,RV:
+0
+Port Left: 256 Top: 744 ,SymbolSideLeft: 280 ,SymbolSideTop: 744
+Portname: in2_BCD3 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+3
+,RV:
+0
+Port Left: 256 Top: 760 ,SymbolSideLeft: 280 ,SymbolSideTop: 760
+Portname: in2_BCD4 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+3
+,RV:
+0
+Port Left: 256 Top: 776 ,SymbolSideLeft: 280 ,SymbolSideTop: 776
+Portname: in2_BCD5 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+3
+,RV:
+0
+Port Left: 256 Top: 792 ,SymbolSideLeft: 280 ,SymbolSideTop: 792
+Portname: in2_BCD6 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+3
+,RV:
+0
+Port Left: 256 Top: 808 ,SymbolSideLeft: 280 ,SymbolSideTop: 808
+Portname: in2_neg ,PortType: std_logic ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+0
+,RV:
+0
+Port Left: 256 Top: 824 ,SymbolSideLeft: 280 ,SymbolSideTop: 824
+Portname: Sig_displaySwitch ,PortType: std_logic ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+0
+,RV:
+0
+Port Left: 584 Top: 568 ,SymbolSideLeft: 560 ,SymbolSideTop: 568
+Portname: out_BCD0 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+3
+,RV:
+0
+Port Left: 584 Top: 584 ,SymbolSideLeft: 560 ,SymbolSideTop: 584
+Portname: out_BCD1 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+3
+,RV:
+0
+Port Left: 584 Top: 600 ,SymbolSideLeft: 560 ,SymbolSideTop: 600
+Portname: out_BCD2 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+3
+,RV:
+0
+Port Left: 584 Top: 616 ,SymbolSideLeft: 560 ,SymbolSideTop: 616
+Portname: out_BCD3 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+3
+,RV:
+0
+Port Left: 584 Top: 632 ,SymbolSideLeft: 560 ,SymbolSideTop: 632
+Portname: out_BCD4 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+3
+,RV:
+0
+Port Left: 584 Top: 648 ,SymbolSideLeft: 560 ,SymbolSideTop: 648
+Portname: out_BCD5 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+3
+,RV:
+0
+Port Left: 584 Top: 664 ,SymbolSideLeft: 560 ,SymbolSideTop: 664
+Portname: out_BCD6 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+3
+,RV:
+0
+Port Left: 584 Top: 680 ,SymbolSideLeft: 560 ,SymbolSideTop: 680
+Portname: out_neg ,PortType: std_logic ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+0
+,RV:
+0
+End
+Ellipses
+End
+Lines
+End
+Arcs
+End
+Texts
+End

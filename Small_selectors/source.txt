@@ -1,0 +1,2 @@
+Enable32bit -> Big_ALU
+OR2For32bit -> Small_BTD

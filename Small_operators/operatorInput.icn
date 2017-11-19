@@ -1,0 +1,76 @@
+SymbolianIcn ver1.00(2006.04.27)
+ModuleName operatorInput
+LanguageType Vhdl
+GridInterval 8
+MillimetersIn100RealScaledUnit 25
+ZoomOutScale 32
+NumberOfHorzPapaers 1
+NumberOfVertPapaers 1
+IfDrawModuleName True
+IfDrawPortnameText True
+ModuleNameDrawPosition middle
+Boxes
+Box Left: 320 Top: 560 ,Right: 520 ,Bottom: 672
+End
+Parameters
+End
+Ports
+Port Left: 296 Top: 568 ,SymbolSideLeft: 320 ,SymbolSideTop: 568
+Portname: clk ,PortType: std_logic ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+0
+,RV:
+0
+Port Left: 296 Top: 584 ,SymbolSideLeft: 320 ,SymbolSideTop: 584
+Portname: rst ,PortType: std_logic ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+0
+,RV:
+0
+Port Left: 296 Top: 600 ,SymbolSideLeft: 320 ,SymbolSideTop: 600
+Portname: bttnIn_A ,PortType: std_logic ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+0
+,RV:
+0
+Port Left: 296 Top: 616 ,SymbolSideLeft: 320 ,SymbolSideTop: 616
+Portname: bttnIn_B ,PortType: std_logic ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+0
+,RV:
+0
+Port Left: 296 Top: 632 ,SymbolSideLeft: 320 ,SymbolSideTop: 632
+Portname: bttnIn_C ,PortType: std_logic ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+0
+,RV:
+0
+Port Left: 296 Top: 648 ,SymbolSideLeft: 320 ,SymbolSideTop: 648
+Portname: bttnIn_D ,PortType: std_logic ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+0
+,RV:
+0
+Port Left: 296 Top: 664 ,SymbolSideLeft: 320 ,SymbolSideTop: 664
+Portname: erase ,PortType: std_logic ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+0
+,RV:
+0
+Port Left: 544 Top: 568 ,SymbolSideLeft: 520 ,SymbolSideTop: 568
+Portname: operator_S0 ,PortType: std_logic ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+0
+,RV:
+0
+Port Left: 544 Top: 584 ,SymbolSideLeft: 520 ,SymbolSideTop: 584
+Portname: operator_S1 ,PortType: std_logic ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+0
+,RV:
+0
+Port Left: 544 Top: 600 ,SymbolSideLeft: 520 ,SymbolSideTop: 600
+Portname: operator_isIn ,PortType: std_logic ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+0
+,RV:
+0
+End
+Ellipses
+End
+Lines
+End
+Arcs
+End
+Texts
+End

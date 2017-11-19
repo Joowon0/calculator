@@ -1,0 +1,66 @@
+SymbolianIcn ver1.00(2006.04.27)
+ModuleName BTD_pos
+LanguageType Vhdl
+GridInterval 8
+MillimetersIn100RealScaledUnit 25
+ZoomOutScale 32
+NumberOfHorzPapaers 1
+NumberOfVertPapaers 1
+IfDrawModuleName True
+IfDrawPortnameText True
+ModuleNameDrawPosition middle
+Boxes
+Box Left: 344 Top: 560 ,Right: 496 ,Bottom: 672
+End
+Parameters
+End
+Ports
+Port Left: 320 Top: 568 ,SymbolSideLeft: 344 ,SymbolSideTop: 568
+Portname: binaryIn ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+31
+,RV:
+0
+Port Left: 520 Top: 568 ,SymbolSideLeft: 496 ,SymbolSideTop: 568
+Portname: BCDout0 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+3
+,RV:
+0
+Port Left: 520 Top: 584 ,SymbolSideLeft: 496 ,SymbolSideTop: 584
+Portname: BCDout1 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+3
+,RV:
+0
+Port Left: 520 Top: 600 ,SymbolSideLeft: 496 ,SymbolSideTop: 600
+Portname: BCDout2 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+3
+,RV:
+0
+Port Left: 520 Top: 616 ,SymbolSideLeft: 496 ,SymbolSideTop: 616
+Portname: BCDout3 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+3
+,RV:
+0
+Port Left: 520 Top: 632 ,SymbolSideLeft: 496 ,SymbolSideTop: 632
+Portname: BCDout4 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+3
+,RV:
+0
+Port Left: 520 Top: 648 ,SymbolSideLeft: 496 ,SymbolSideTop: 648
+Portname: BCDout5 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+3
+,RV:
+0
+Port Left: 520 Top: 664 ,SymbolSideLeft: 496 ,SymbolSideTop: 664
+Portname: BCDout6 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+3
+,RV:
+0
+End
+Ellipses
+End
+Lines
+End
+Arcs
+End
+Texts
+End

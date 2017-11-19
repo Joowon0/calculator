@@ -1,0 +1,76 @@
+SymbolianIcn ver1.00(2006.04.27)
+ModuleName BTDTotal
+LanguageType Vhdl
+GridInterval 8
+MillimetersIn100RealScaledUnit 25
+ZoomOutScale 32
+NumberOfHorzPapaers 1
+NumberOfVertPapaers 1
+IfDrawModuleName True
+IfDrawPortnameText True
+ModuleNameDrawPosition middle
+Boxes
+Box Left: 352 Top: 560 ,Right: 488 ,Bottom: 688
+End
+Parameters
+End
+Ports
+Port Left: 328 Top: 568 ,SymbolSideLeft: 352 ,SymbolSideTop: 568
+Portname: binaryP ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+31
+,RV:
+0
+Port Left: 512 Top: 568 ,SymbolSideLeft: 488 ,SymbolSideTop: 568
+Portname: BCD0 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+3
+,RV:
+0
+Port Left: 512 Top: 584 ,SymbolSideLeft: 488 ,SymbolSideTop: 584
+Portname: BCD1 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+3
+,RV:
+0
+Port Left: 512 Top: 600 ,SymbolSideLeft: 488 ,SymbolSideTop: 600
+Portname: BCD2 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+3
+,RV:
+0
+Port Left: 512 Top: 616 ,SymbolSideLeft: 488 ,SymbolSideTop: 616
+Portname: BCD3 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+3
+,RV:
+0
+Port Left: 512 Top: 632 ,SymbolSideLeft: 488 ,SymbolSideTop: 632
+Portname: BCD4 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+3
+,RV:
+0
+Port Left: 512 Top: 648 ,SymbolSideLeft: 488 ,SymbolSideTop: 648
+Portname: BCD5 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+3
+,RV:
+0
+Port Left: 512 Top: 664 ,SymbolSideLeft: 488 ,SymbolSideTop: 664
+Portname: BCD6 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+3
+,RV:
+0
+Port Left: 328 Top: 584 ,SymbolSideLeft: 352 ,SymbolSideTop: 584
+Portname: binaryN ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+31
+,RV:
+0
+Port Left: 512 Top: 680 ,SymbolSideLeft: 488 ,SymbolSideTop: 680
+Portname: if_Neg ,PortType: std_logic ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+0
+,RV:
+0
+End
+Ellipses
+End
+Lines
+End
+Arcs
+End
+Texts
+End

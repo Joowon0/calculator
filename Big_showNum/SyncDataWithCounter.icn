@@ -1,0 +1,76 @@
+SymbolianIcn ver1.00(2006.04.27)
+ModuleName SyncDataWithCounter
+LanguageType Vhdl
+GridInterval 8
+MillimetersIn100RealScaledUnit 25
+ZoomOutScale 32
+NumberOfHorzPapaers 1
+NumberOfVertPapaers 1
+IfDrawModuleName True
+IfDrawPortnameText True
+ModuleNameDrawPosition middle
+Boxes
+Box Left: 296 Top: 560 ,Right: 544 ,Bottom: 704
+End
+Parameters
+End
+Ports
+Port Left: 272 Top: 568 ,SymbolSideLeft: 296 ,SymbolSideTop: 568
+Portname: BCD0 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+3
+,RV:
+0
+Port Left: 272 Top: 584 ,SymbolSideLeft: 296 ,SymbolSideTop: 584
+Portname: BCD1 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+3
+,RV:
+0
+Port Left: 272 Top: 600 ,SymbolSideLeft: 296 ,SymbolSideTop: 600
+Portname: BCD2 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+3
+,RV:
+0
+Port Left: 272 Top: 616 ,SymbolSideLeft: 296 ,SymbolSideTop: 616
+Portname: BCD3 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+3
+,RV:
+0
+Port Left: 272 Top: 632 ,SymbolSideLeft: 296 ,SymbolSideTop: 632
+Portname: BCD4 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+3
+,RV:
+0
+Port Left: 272 Top: 648 ,SymbolSideLeft: 296 ,SymbolSideTop: 648
+Portname: BCD5 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+3
+,RV:
+0
+Port Left: 272 Top: 664 ,SymbolSideLeft: 296 ,SymbolSideTop: 664
+Portname: BCD6 ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+3
+,RV:
+0
+Port Left: 272 Top: 680 ,SymbolSideLeft: 296 ,SymbolSideTop: 680
+Portname: negSign ,PortType: std_logic ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+0
+,RV:
+0
+Port Left: 272 Top: 696 ,SymbolSideLeft: 296 ,SymbolSideTop: 696
+Portname: counter8in ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 0 ,LV:
+7
+,RV:
+0
+Port Left: 568 Top: 568 ,SymbolSideLeft: 544 ,SymbolSideTop: 568
+Portname: numDataOut ,PortType: std_logic_vector ,LanguageType: Vhdl ,PortDirection: 2 ,LV:
+10
+,RV:
+0
+End
+Ellipses
+End
+Lines
+End
+Arcs
+End
+Texts
+End
